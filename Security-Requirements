@@ -1,0 +1,5 @@
+Interfaces X,Y and Z on the router are disabled. Why?
+1. Reduces attack surface - less open access points and limits unauthorised device connections(i.e. less routes for an
+attacker to break into the network)
+2. Moving unused interfaces on an unused VLAN hardens the router
+
